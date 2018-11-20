@@ -19,7 +19,8 @@ namespace HELLO
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageB0x.Show(hello):
+            MessageBox.Show("HELLO "+txtbxname.Text);
+
         }
     }
 }
